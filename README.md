@@ -1,2 +1,2 @@
 # gitHub-Trial
-Learning A GitHub Tutorial
+Learning A GitHub Tutorial.
